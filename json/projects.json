@@ -1,0 +1,49 @@
+[
+    {
+        "id": "p1",
+        "projectname": "Project Section Under Construction",
+        "shortdescription": "We are currently gathering all advanced projects into a new, exciting section. Stay tuned as we build and showcase innovative solutions and cutting-edge technologies.",
+        "thumbnailsurl": "/Projects/404.png",
+        "technologies": [
+            {
+                "name": "React",
+                "icon": "/Skillslogo/react.png"
+            },
+            {
+                "name": "Next.js",
+                "icon": "/Skillslogo/next.png"
+            },
+            {
+                "name": "Python",
+                "icon": "/Skillslogo/python.png"
+            },
+            {
+                "name": "MongoDB",
+                "icon": "/Skillslogo/mongodb.png"
+            }
+        ],
+        "githuburl": "https://github.com/cyber-bytezz/AI-xD",
+        "livesiteurl": "",
+        "imagecarousel": [
+            {
+                "alt": "AI-xD Image",
+                "link": "/Projects/404.png"
+            },
+            {
+                "alt": "Demo AI-xD Image",
+                "link": "/Projects/404.png"
+            }
+        ],
+        "Overview": "This section is under construction as we consolidate and present all our advanced projects. It will feature innovative solutions and cutting-edge technologies we've developed, showcasing the depth and breadth of our work.",
+        "keyFeatures": [
+            "Showcase of advanced projects",
+            "Highlight of innovative solutions",
+            "Integration of cutting-edge technologies",
+            "Detailed project descriptions",
+            "Future updates with new projects"
+        ],
+        "design": "The design for this section will focus on a modern and engaging presentation of our projects. We'll use advanced design tools and techniques to ensure a visually appealing and informative layout, including interactive elements and a streamlined user experience.",
+        "designimageurl": "/Projects/404.png",
+        "development": "This section is being developed to effectively showcase all advanced projects. We'll leverage technologies such as React, Next.js, Python, and MongoDB to ensure a robust and dynamic presentation of our work."
+    }
+]

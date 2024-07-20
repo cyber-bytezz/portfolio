@@ -1,0 +1,36 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+html {
+  scrollbar-width: 0.8vw;
+  scrollbar-color: #1e90ffa1 #2e2e2e; /* Updated to Dodger Blue */
+}
+
+::-webkit-scrollbar {
+  width: 0.5vw;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #1e90ffa1; /* Updated to Dodger Blue */
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #2e2e2e;
+}
+
+.carousel::-webkit-scrollbar {
+  display: none;
+}
+
+.carousel {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+@layer components {
+  .blob {
+    @apply w-[25.25rem] h-[25.25rem] rounded-full opacity-90 bg-[#1E90FF] filter blur-[275px] absolute right-0 z-[-10] translate-x-[20%] translate-y-[40%];
+  }
+}

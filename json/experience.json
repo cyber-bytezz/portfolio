@@ -1,0 +1,35 @@
+[
+  {
+    "companyname": "Teddlo",
+    "workrole": "Remote Software Developer - Ireland",
+    "dates": "March 2024 - Present",
+    "companyimageurl": "/Companylogo/ted.png",
+    "accomplish": [
+      "Developing AI-powered solutions to personalize learning and enhance student engagement in education.",
+      "Ensuring secure AI usage to empower educators with actionable insights and strategic teaching capabilities.",
+      "Collaborating with cross-functional teams to design and implement scalable algorithms for real-time academic monitoring."
+    ]
+  },
+  {
+    "companyname": "Infinity Cosmos Technologies",
+    "workrole": "Front-End Engineer",
+    "dates": "November 2023 - Present",
+    "companyimageurl": "/Companylogo/inf.png",
+    "accomplish": [
+      "Developed responsive websites using Next.js, incorporating user feedback to ensure client satisfaction.",
+      "Led agile teams to implement user-centric features, significantly enhancing the overall customer experience.",
+      "Optimized web performance and accessibility to achieve higher search engine rankings and improved usability."
+    ]
+  },
+  {
+    "companyname": "AI-Engine",
+    "workrole": "Founder & AI Engine Developer",
+    "dates": "In Progress",
+    "companyimageurl": "/Companylogo/ai.png",
+    "accomplish": [
+      "Building an innovative AI engine with the vision of launching a groundbreaking AI startup.",
+      "Developing cutting-edge AI technologies and solutions to revolutionize the industry.",
+      "Securing initial funding and forming strategic partnerships to accelerate development and market entry."
+    ]
+  }
+]

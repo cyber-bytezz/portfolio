@@ -1,0 +1,28 @@
+/* Customize the previous (left) arrow */
+.splide__arrow--prev {
+  background-color: #1E90FF; /* Updated to Dark Secondary Color */
+  color: #F9FAFC; /* Updated to Primary Color */
+}
+
+/* Customize the next (right) arrow */
+.splide__arrow--next {
+  background-color: #1E90FF; /* Updated to Dark Secondary Color */
+  color: #F9FAFC; /* Updated to Primary Color */
+}
+
+/* Hover effect for arrows */
+.splide__arrow:hover {
+  background-color: #8b64df; /* Updated to Light Purple */
+}
+
+/* Pagination dots */
+.splide__pagination__page {
+  background-color: #8b64df; /* Updated to Light Purple */
+  width: 0.8em;
+  height: 0.8em;
+}
+
+/* Active pagination dot */
+.splide__pagination__page.is-active {
+  background-color: #1E90FF; /* Updated to Dark Secondary Color */
+}
