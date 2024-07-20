@@ -29,7 +29,7 @@ const HeroSection = () => {
           <p className="font-roboto font-bold text-[1rem]">Hello, I&#39;m</p>
 
           <h1 className="font-dm_sans font-black text-[44px] sm:text-[86px] text-primary z-50">
-            Aro Barath Chandru
+            Aro 😁
           </h1>
           <p className="font-roboto text-base w-[90%] text-center sm:w-full sm:text-xl font-light my-4 ">
             Full Stack Web Engineer passionate about building seamless digital
