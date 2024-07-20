@@ -19,7 +19,9 @@ function LayoutComponent(props) {
 
   useEffect(() => {
     if (isLoading) return;
-  }, []);
+    // Add logic here if needed when isLoading changes
+  }, [isLoading]); // Include 'isLoading' in the dependency array
+
   return (
     <AnimatePresence initial={false} mode="wait">
       {isLoading && isHome ? (

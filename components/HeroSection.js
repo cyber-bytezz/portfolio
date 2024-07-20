@@ -26,12 +26,15 @@ const HeroSection = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ staggerChildren: 0.7, type: "keyframes" }}
         >
-          <p className="font-roboto font-bold text-[1rem]">Hello, I'm</p>
+          <p className="font-roboto font-bold text-[1rem]">Hello, I&#39;m</p>
+
           <h1 className="font-dm_sans font-black text-[44px] sm:text-[86px] text-primary z-50">
             Aro Barath Chandru
           </h1>
           <p className="font-roboto text-base w-[90%] text-center sm:w-full sm:text-xl font-light my-4 ">
-            Full Stack Web Engineer passionate about building seamless digital experiences. <br className="hidden sm:block"/> Always learning, innovating, and exploring the latest technologies.
+            Full Stack Web Engineer passionate about building seamless digital
+            experiences. <br className="hidden sm:block" /> Always learning,
+            innovating, and exploring the latest technologies.
           </p>
         </motion.div>
       </div>

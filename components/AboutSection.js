@@ -22,7 +22,7 @@ const AboutSection = () => {
         transition={{ delay: 0.5, type: "keyframes" }}
       >
         <p className="font-roboto font-light text-base sm:text-xl">
-          Hi, I'm Aro Barath Chandru, a dedicated software engineer specializing in{" "}
+          Hi, It&#39;s Aro Barath Chandru, a dedicated software engineer specializing in{" "}
           <span className="text-[#7a52cf]">Python</span> and{" "}
           <span className="text-[#7a52cf]">JavaScript</span> (React.js, Next.js). I focus on developing cutting-edge solutions and integrating AI technologies to drive innovation.
         </p>
